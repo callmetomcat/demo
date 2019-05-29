@@ -6,4 +6,9 @@ public class HelloWorld {
         System.out.println("hhglo");
         System.out.println("hhg");
     }
+
+    public static void test() {
+        int i = 0;
+        i += 10;
+    }
 }
